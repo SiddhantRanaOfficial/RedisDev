@@ -1,3 +1,4 @@
 LocalRedis/node_modules/
 SiteBanner/node_modules/
 .env
+UserProfileAsCache-JSONVsHash/node_modules/
