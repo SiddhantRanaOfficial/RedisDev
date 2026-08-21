@@ -2,3 +2,5 @@ LocalRedis/node_modules/
 SiteBanner/node_modules/
 .env
 UserProfileAsCache-JSONVsHash/node_modules/
+LoginOTPWithTTL/node_modules/
+EmailQueueWithRedisLists/node_modules/
